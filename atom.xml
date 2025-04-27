@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-04-26T15:18:01.069Z</updated>
+  <updated>2025-04-27T11:03:29.330Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="http://example.com/2025/04/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>http://example.com/2025/04/26/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</id>
     <published>2025-04-26T10:42:23.000Z</published>
-    <updated>2025-04-26T15:18:01.069Z</updated>
+    <updated>2025-04-27T11:03:29.330Z</updated>
     
-    <content type="html"><![CDATA[<p>这是我的第一篇文章<br><img                         lazyload                       alt="image"                       data-src="https://github.com/yijiu199999/yijiu199999.github.io/blob/main/images/avatar1.jpg"                        alt="img"                 ></p>]]></content>
+    <content type="html"><![CDATA[<p>这是我的第一篇文章<br><img                         lazyload                       alt="image"                       data-src="/../img/avatar1.jpg"                        alt="img"                 ></p>]]></content>
     
     
       
@@ -31,7 +31,7 @@
     <summary type="html">&lt;p&gt;这是我的第一篇文章&lt;br&gt;&lt;img  
                        lazyload
                        alt=&quot;image&quot;
-                       data-src=&quot;https://github.co</summary>
+                       data-src=&quot;/../img/avatar1.j</summary>
       
     
     
