@@ -9,4 +9,15 @@
         <tag>hello</tag>
       </tags>
   </entry>
+  <entry>
+    <title>这是一个演示文档</title>
+    <url>/2025/04/28/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%BC%94%E7%A4%BA%E6%96%87%E6%A1%A3/</url>
+    <content><![CDATA[这是一个演示文档这里可以插入代码块
+$ hexo new &quot;My New Post&quot;
+也可以插入图片
+]]></content>
+      <tags>
+        <tag>演示</tag>
+      </tags>
+  </entry>
 </search>

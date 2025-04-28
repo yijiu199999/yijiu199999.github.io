@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2025-04-27T11:03:29.330Z</updated>
+  <updated>2025-04-28T11:55:51.978Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是一个演示文档</title>
+    <link href="http://example.com/2025/04/28/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%BC%94%E7%A4%BA%E6%96%87%E6%A1%A3/"/>
+    <id>http://example.com/2025/04/28/%E8%BF%99%E6%98%AF%E4%B8%80%E4%B8%AA%E6%BC%94%E7%A4%BA%E6%96%87%E6%A1%A3/</id>
+    <published>2025-04-28T11:53:48.000Z</published>
+    <updated>2025-04-28T11:55:51.978Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是一个演示文档<br>这里可以插入代码块</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>也可以插入图片<br><img lazyload alt="image" data-src="/../img/avatar1.jpg"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;这是一个演示文档&lt;br&gt;这里可以插入代码块&lt;/p&gt;
+&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td</summary>
+      
+    
+    
+    
+    
+    <category term="演示" scheme="http://example.com/tags/%E6%BC%94%E7%A4%BA/"/>
+    
+  </entry>
   
   <entry>
     <title>我的第一篇文章</title>
